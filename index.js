@@ -19,5 +19,5 @@ var funkyFunction = function() {
     return "FUNKY!"
   }
 }
-var function = theFunk()
-theFunk =
+var 
+theFunk = theFunk
